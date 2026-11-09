@@ -1,16 +1,17 @@
-## Hi there 👋
+# Frontier Rehearsal
 
-<!--
-**frontier-rehearsal/frontier-rehearsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent technical interview preparation for frontier AI, research engineering, and ML systems roles.
 
-Here are some ideas to get you started:
+Frontier Rehearsal publishes original interview practice, visual explanations, and system-design exercises. It is not affiliated with OpenAI, Anthropic, Meta, xAI, or other referenced companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Start here
+
+- [Practice frontier AI interview questions](https://frontierrehearsal.com/question-bank)
+- [Explore company interview process guides](https://frontierrehearsal.com/suites)
+- [Join technical interview discussions](https://frontierrehearsal.com/community/discussions)
+
+## Topics
+
+Reinforcement learning · LLM inference · ML systems · research engineering · system design · coding interviews
+
+Website: [frontierrehearsal.com](https://frontierrehearsal.com)
